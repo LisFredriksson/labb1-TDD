@@ -1,9 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T07:46:51.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="21.1.4" etag="xdh1IvCfdeu4Zub86-nq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T10:28:59.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="G-LMKH1rjVORDmevN0l-" version="21.1.4" type="github">
   <diagram name="Sida-1" id="FdfPEw6Vs_icbINtVnLu">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-2" value="" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="360" y="30" as="sourcePoint" />
+            <mxPoint x="360" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-5" value="Ansök till nätverk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359.5" y="190" as="sourcePoint" />
+            <mxPoint x="359.5" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="359.5" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="293" y="250" as="sourcePoint" />
+            <mxPoint x="293" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="293" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-9" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=6;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="292.5" y="250" as="sourcePoint" />
+            <mxPoint x="427.5" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="426" y="250" as="sourcePoint" />
+            <mxPoint x="426" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="426" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-11" value="Utbildare" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-12" value="Skola" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="382" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="293" y="370" as="sourcePoint" />
+            <mxPoint x="293" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="293" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="426" y="370" as="sourcePoint" />
+            <mxPoint x="426" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="426" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-15" value="Specialområden" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-16" value="Kompetensbehov (flerval)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="382" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="294" y="480" as="sourcePoint" />
+            <mxPoint x="294" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="294" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="480" as="sourcePoint" />
+            <mxPoint x="430" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-19" value="Kontaktformulär" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LLQjW-pE6SjPbIe9xY1D-20" value="Kontaktformulär" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="382" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
